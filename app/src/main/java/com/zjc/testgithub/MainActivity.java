@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private TextView textView3;//改了名字3
+    private TextView textView3;//改了名字4
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
